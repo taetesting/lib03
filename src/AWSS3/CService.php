@@ -1,5 +1,5 @@
 <?php
-namespace AWS\S3\AWSS2;
+namespace AWS\S3\AWSS3;
 
 class CService
 {
