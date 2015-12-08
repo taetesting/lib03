@@ -15,7 +15,7 @@
         },
     "autoload": {
         "psr-0": {
-            "AWS\\S3\\": "src/"
+            "AWS\\S3": "src/"
         }
     }
 }
